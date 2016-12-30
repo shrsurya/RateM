@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "196495166305",
+    "firebase_url": "https://ratem-a42e7.firebaseio.com",
+    "project_id": "ratem-a42e7",
+    "storage_bucket": "ratem-a42e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196495166305:android:95f8178abe4c7ea1",
+        "android_client_info": {
+          "package_name": "com.example.sridh.ratem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196495166305-6njqgqne5eluvqnq7m7p7av7jcqo4r56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sridh.ratem",
+            "certificate_hash": "8AA821EF9EF4D9ADE452C319FE1A0DE2675D2F4B"
+          }
+        },
+        {
+          "client_id": "196495166305-osktqmfedf3d20q0ukrphe6bcoemar1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHy47v24yv0bjCXROGGNvt0SORduh4BBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196495166305-osktqmfedf3d20q0ukrphe6bcoemar1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
