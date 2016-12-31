@@ -28,7 +28,6 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class FBLogin extends AppCompatActivity implements
         View.OnClickListener {
-
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
     private final String TAG ="fbLogin";
